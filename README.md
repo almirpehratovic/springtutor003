@@ -1,4 +1,4 @@
-# Spring - Restful WS
+# Sending emails from Spring MVC 
 ## Preface
 This is example of sending email from Spring MVC application. Tutorial can be found at 
 
